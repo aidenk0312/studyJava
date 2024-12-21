@@ -1,2 +1,2 @@
-Daily Git for Java Study
+Daily Git for Java Study <br>
 Blog: https://bigdogblog.tistory.com/
