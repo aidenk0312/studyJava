@@ -1,4 +1,4 @@
-package study.day1;
+package study.BasicMathematics.day1;
 
 // Practice
 // Implementing Sets Using ArrayList (Without Using Set-Related Operations)

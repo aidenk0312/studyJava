@@ -1,4 +1,4 @@
-package study.Day3;
+package study.BasicMathematics.Day3;
 
 public class PermutationStudy {
     public static void main(String[] args) {

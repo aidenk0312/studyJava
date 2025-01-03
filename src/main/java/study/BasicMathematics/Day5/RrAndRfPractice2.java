@@ -1,4 +1,4 @@
-package study.Day5;
+package study.BasicMathematics.Day5;
 
 // Practice2
 // Implement the greatest common divisor (GCD) using a recursive function

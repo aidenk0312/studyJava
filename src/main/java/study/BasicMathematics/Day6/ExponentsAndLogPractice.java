@@ -1,4 +1,4 @@
-package study.Day6;
+package study.BasicMathematics.Day6;
 
 // Practice
 // Implementing Squares and Square Roots Without Using Math Library

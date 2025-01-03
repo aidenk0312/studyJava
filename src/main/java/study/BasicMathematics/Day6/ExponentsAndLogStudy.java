@@ -1,4 +1,4 @@
-package study.Day6;
+package study.BasicMathematics.Day6;
 
 // Basic Mathematics - Exponents and Logarithms
 

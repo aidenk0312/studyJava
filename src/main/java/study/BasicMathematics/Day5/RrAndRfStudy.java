@@ -1,4 +1,4 @@
-package study.Day5;
+package study.BasicMathematics.Day5;
 
 // Recurrence Relation and Recursive Function
 

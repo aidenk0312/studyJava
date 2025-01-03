@@ -1,4 +1,4 @@
-package study.day2;
+package study.BasicMathematics.day2;
 
 // Combinatorics
 
