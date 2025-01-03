@@ -1,4 +1,4 @@
-package study.Day4;
+package study.BasicMathematics.Day4;
 
 // Practice
 // Generate all three-digit natural numbers using 1, 2, 3, and 4 (Order doesn't matter, no repetition)

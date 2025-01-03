@@ -1,4 +1,4 @@
-package study.day1;
+package study.BasicMathematics.day1;
 
 import java.util.Arrays;
 import java.util.HashSet;

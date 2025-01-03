@@ -1,4 +1,4 @@
-package study.Day5;
+package study.BasicMathematics.Day5;
 
 // Practice1
 // Implement factorial using a recursive function

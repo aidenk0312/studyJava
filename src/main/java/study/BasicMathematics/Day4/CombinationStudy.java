@@ -1,4 +1,4 @@
-package study.Day4;
+package study.BasicMathematics.Day4;
 
 public class CombinationStudy {
 
